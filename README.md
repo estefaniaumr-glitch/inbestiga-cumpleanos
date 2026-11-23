@@ -34,3 +34,4 @@ Sube la carpeta completa a Vercel, incluyendo las carpetas `api` y `scripts`. Ve
 
 ## Importante
 No incluyas `.env` en el ZIP ni publiques secretos. El archivo `.env.example` es solo una plantilla.
+Actualización de despliegue INBESTIGA
